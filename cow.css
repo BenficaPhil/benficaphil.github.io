@@ -1,0 +1,19 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: url(img/signal_iduna.png);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Lato', sans-serif;
+    padding-top: 70px;
+}
+
+.navbar-inverse {
+    background: black;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
