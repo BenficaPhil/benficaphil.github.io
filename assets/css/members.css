@@ -3,7 +3,7 @@ html {
 }
 
 body {
-	background: url(img/signal_iduna.png);
+	background: url(../img/signal_iduna.png);
 	background-size: cover;
 	background-position: center;
 	font-family: 'Lato', sans-serif;
@@ -19,9 +19,8 @@ body {
 }
 
 img {
-	display: block;
-	margin: auto;
-	width: 50%;
+	max-height: 200px;
+	padding-top: 8%;
 }
 
 h2 {
